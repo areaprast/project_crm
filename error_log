@@ -1,0 +1,5 @@
+[11-Mar-2015 08:06:59 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/arpawebi/public_html/demo/crm/application/controllers/home.php on line 74
+[12-Mar-2015 07:14:32 UTC] PHP Fatal error:  Call to a member function get_propinsi() on a non-object in /home/arpawebi/public_html/demo/crm/application/controllers/user.php on line 176
+[12-Mar-2015 07:25:12 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/arpawebi/public_html/demo/crm/application/views/user/user/profile_user.php on line 103
+[12-Mar-2015 07:34:26 UTC] PHP Parse error:  syntax error, unexpected 'as' (T_AS), expecting ';' in /home/arpawebi/public_html/demo/crm/application/views/user/user/profile_user.php on line 88
+[12-Mar-2015 07:51:13 UTC] PHP Fatal error:  Call to undefined function printr() in /home/arpawebi/public_html/demo/crm/application/views/user/user/profile_user.php on line 85
